@@ -1,5 +1,5 @@
 # This program adds two numbers
-
+#!/usr/local/bin/python
 num1 = 1.5
 num2 = 6.3
 
