@@ -1,4 +1,4 @@
-# This program adds two numbers
+# #This program adds two numbers
 #!/usr/local/bin/python
 num1=10
 num2=50
